@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(246, 248, 249);
+}
+header{
+    width: auto;
+
+    background-color: white;
+}
+
+.logo{
+    width: 100px;
+    height: 100px;
+    padding-left: 20px;
+    
+}
+.text-logo{
+    font-size: 4rem;
+    color: black;
+  
+}
+
+/*NAV*/
+
+nav{
+    background-color: white;
+    width: 70%;
+    height: 70px;
+    margin: auto;
+}
+.add-box{
+    
+}
