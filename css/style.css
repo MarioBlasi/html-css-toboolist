@@ -24,9 +24,36 @@ header{
 nav{
     background-color: white;
     width: 70%;
-    height: 70px;
+    height: 80px;
     margin: auto;
+    border-radius: 10px;
+    /*display: block;*/
 }
-.add-box{
-    
+
+.add-task{
+    background-color: rgb(71, 173, 241);
+    border-radius: 10px;
+    color: white;
+    border-color: rgb(71, 173, 241);
+    width: 120px;
+    height: 40px;
+}
+.add-section{
+    background: rgb(255, 255, 255);
+    border-radius: 10px;
+    color: rgb(209, 213, 217);
+    border-color: rgb(255, 255, 255) ;
+    width: 150px;
+    height: 40px;
+}
+/*END NAV*/
+
+
+/*MAIN*/
+main{
+    background-color: white;
+    width: 70%;
+    height: 500px;
+    margin: auto;
+    border-radius: 10px; 
 }
