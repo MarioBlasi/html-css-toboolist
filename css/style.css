@@ -10,12 +10,10 @@ header{
     width: 100px;
     height: 100px;
     padding-left: 20px;
-    
 }
 .text-logo{
     font-size: 4rem;
     color: black;
-
 }
 
 /*NAV*/
@@ -28,8 +26,6 @@ nav{
     padding-left: 100px;
     padding-top: 20px;
     border-radius: 10px;
-    
-    
 }
 
 .add-task{
@@ -40,9 +36,6 @@ nav{
     width: 120px;
     height: 40px;
     margin: auto;
-    
-    
-    
 }
 .add-section{
     background: rgb(255, 255, 255);
@@ -51,7 +44,6 @@ nav{
     border-color: rgb(255, 255, 255) ;
     width: 150px;
     height: 40px;
-    
 }
 /*END NAV*/
 
