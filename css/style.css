@@ -3,7 +3,6 @@ body{
 }
 header{
     width: auto;
-
     background-color: white;
 }
 
@@ -16,18 +15,21 @@ header{
 .text-logo{
     font-size: 4rem;
     color: black;
-  
+
 }
 
 /*NAV*/
 
 nav{
     background-color: white;
-    width: 70%;
-    height: 80px;
+    width: 65%;
+    height: 60px;
     margin: auto;
+    padding-left: 100px;
+    padding-top: 20px;
     border-radius: 10px;
-    /*display: block;*/
+    
+    
 }
 
 .add-task{
@@ -37,6 +39,10 @@ nav{
     border-color: rgb(71, 173, 241);
     width: 120px;
     height: 40px;
+    margin: auto;
+    
+    
+    
 }
 .add-section{
     background: rgb(255, 255, 255);
@@ -45,6 +51,7 @@ nav{
     border-color: rgb(255, 255, 255) ;
     width: 150px;
     height: 40px;
+    
 }
 /*END NAV*/
 
@@ -53,7 +60,62 @@ nav{
 main{
     background-color: white;
     width: 70%;
-    height: 500px;
+    height: 1000px;
     margin: auto;
     border-radius: 10px; 
 }
+
+.position-one, .position-two, .position-three {
+    padding-left: 100px;
+    font-size: 1.2rem;
+}
+    
+.editorial{
+    background-color: rgb(71, 173, 241);
+    border-radius: 20px;
+    color: white;
+    border-color: rgb(71, 173, 241);
+    width: 120px;
+    height: 40px;
+}
+.Q1-Goals{
+    background-color: rgb(204, 81, 153);
+    border-radius: 20px;
+    color: white;
+    border-color: #ffff;
+    width: 120px;
+    height: 40px;
+}
+.recruiting{
+    background-color: rgb(33, 105, 84);
+    border-radius: 20px;
+    color: white;
+    border-color: rgb(33, 105, 84);
+    width: 120px;
+    height: 40px;
+}
+.mobile{
+    background-color: rgb(197, 114, 19);
+    border-radius: 20px;
+    color: white;
+    border-color: rgb(197, 114, 19);
+    width: 120px;
+    height: 40px;
+}
+.website{
+    background-color: rgb(230, 61, 154);
+    border-radius: 20px;
+    color: white;
+    border-color: rgb(230, 61, 154);
+    width: 120px;
+    height: 40px;
+}
+.sales{
+    background-color: rgb(80, 209, 80);
+    border-radius: 20px;
+    color: white;
+    border-color: rgb(80, 209, 80);
+    width: 120px;
+    height: 40px;
+}
+/*END MAIN*/
