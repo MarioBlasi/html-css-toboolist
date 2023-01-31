@@ -1,10 +1,6 @@
 body{
     background-color: rgb(246, 248, 249);
 }
-header{
-    width: auto;
-    background-color: white;
-}
 
 .logo{
     width: 100px;
@@ -33,17 +29,13 @@ nav{
     border-radius: 10px;
     color: white;
     border-color: rgb(71, 173, 241);
-    width: 120px;
-    height: 40px;
-    margin: auto;
+    
 }
 .add-section{
-    background: rgb(255, 255, 255);
+    background: white;
     border-radius: 10px;
     color: rgb(209, 213, 217);
-    border-color: rgb(255, 255, 255) ;
-    width: 150px;
-    height: 40px;
+    border-color: rgb(47, 48, 48);
 }
 /*END NAV*/
 
@@ -67,47 +59,35 @@ main{
     border-radius: 20px;
     color: white;
     border-color: rgb(71, 173, 241);
-    width: 120px;
-    height: 40px;
 }
 .Q1-Goals{
     background-color: rgb(204, 81, 153);
     border-radius: 20px;
     color: white;
     border-color: #ffff;
-    width: 120px;
-    height: 40px;
 }
 .recruiting{
     background-color: rgb(33, 105, 84);
     border-radius: 20px;
     color: white;
     border-color: rgb(33, 105, 84);
-    width: 120px;
-    height: 40px;
 }
 .mobile{
     background-color: rgb(197, 114, 19);
     border-radius: 20px;
     color: white;
     border-color: rgb(197, 114, 19);
-    width: 120px;
-    height: 40px;
 }
 .website{
     background-color: rgb(230, 61, 154);
     border-radius: 20px;
     color: white;
     border-color: rgb(230, 61, 154);
-    width: 120px;
-    height: 40px;
 }
 .sales{
     background-color: rgb(80, 209, 80);
     border-radius: 20px;
     color: white;
     border-color: rgb(80, 209, 80);
-    width: 120px;
-    height: 40px;
 }
 /*END MAIN*/
